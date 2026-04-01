@@ -1,28 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL AZTECA 7
-https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8?uid=jsif3S84M1fpqD5hSzWN3ziZ9SiuZSgQ&sid=iHut6NjPZ6g9tylA5KGUkqKCa8ywzEqF&pid=IfwL7Oqy7ni3MUScDgL9fUtf1hDjaiEQ&pid_dvr=tqgLYMRwZOlFV5cYUD6F5URf3YP68lMd&an=screen&at=web-app&av=v7.0.13&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=1120x630&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%225ff464aaf89edc69bfe55de9%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22IfwL7Oqy7ni3MUScDgL9fUtf1hDjaiEQ%22%2Csu
+https://tvazteca.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/Df3gDsEJTGGYjpHFt_KJPg/stream/7b471979-fb4c-4884-b88a-cd735bd7b93f:CBF2/variant/8f7f8018637ed7a31c817d9aafd4fcc1/bandwidth/2787400.m3u8?es=tvazteca.cdn.mdstrm.com&Expires=1775016734&Key-Pair-Id=APKAICBOAD57CDQK6EDQ&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmF6dGVjYS5jZG4ubWRzdHJtLmNvbS9saXZlLXN0cmVhbS81ZmY0NjRhYWY4OWVkYzY5YmZlNTVkZTkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NTAxNjczNH19fV19&Signature=J4wrbxFNWFGy8t-55QMImy9QiR3WNtNvHBptdCp9iBZ9pfF90xpOfBAi3YRMosmXCctTGKzMbV6MuGIV7r23LWpGNpGCYfiDMWXhGiLivyjmkWwCmOtLo6Ho12oH9b7pyMGaT--Wyq73JTAT~i~uHE86JWBe0-~wLD0LPzQ5sxFXWdej3YfPhp4VIsDJtI1kQxODMxWP7BsEGe78fSBz4aCPktsxofeDv45t5eZuaInfG-W2a1BmQoc1Ew0l3RG~8B-jvXhPfmv29lbUCba8im8zuN0T6JhQ2mT0pH11WAzuUetB3oQiP~dFLYdJKzCGuceTZTS9N7MOlgm5EH6yUw__&proto=https&CMCD=cid%3D%225ff464aaf89edc69bfe55de9%22%2Cmtp%3D27000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%226aJrwd9hdK6BYmqCncUZcUnp5UvwUyQj%22
 
-#EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL AZTECA 7 2
-https://tyg2mnl9.fubohd.com/azteca7/mono.m3u8?token=1a51074b1fcdfc7ebaabe3283327c438b45dd1c3-c-1774752481-1774734481
-
-#EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL AZTECA 7 3
-https://wp9xqedt.fubohd.com/azteca7/mono.m3u8?token=f17f19da143e650d35a7a8c22f8229e4117d4a40-5d-1774752483-1774734483
-
-#EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL CANAL 5
-https://anvtcax.fubohd.com/canal5/mono.m3u8?token=fae39a41e5bda3105c0d30018cb628322ac2eaa4-82-1774752550-1774734550
-
-#EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL CANAL 5 2
-https://regionales.saohgdasregions.fun:9092/MTg5LjIzOS4yMjAuMTc2/2_.m3u8?token=I5qZtXeh3r-rkWWiV6KhFQ&expires=1774779073
-
-#EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL CANAL 5 3
-https://stmv2.srvif.com/5cdmx/5cdmx/playlist.m3u8
-
-#EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL TUDN USA
-https://anvtcax.fubohd.com/tudn/mono.m3u8?token=6329b912f588dce04941b46de985a27056487ac9-51-1774752643-1774734643
-
-#EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL TUDN USA 2
-https://qzv4jmsc.fubohd.com/tudn/mono.m3u8?token=5d3f158fcb9589e59733420a53081f8e6863bb42-e5-1774752659-1774734659
-
-#EXTINF:-1 group-title="Futbol",MEXICO VS PORTUGAL TUDN USA 3
-https://ag9wzq.fubohd.com/tudn/mono.m3u8?token=242676c20dff00a36328f87a184f90e732a565ee-3c-1774752733-1774734733
